@@ -1,6 +1,6 @@
 <?php
 //------------------ Configs ---------------------------------
-$bot_token= "694372203:AAEmQVDrft-DPYvAJXYgNk17fdxkvP5lf78";
+$bot_token= "BOT_Token";
 $host_name = "localhost";
 $database = "telegram_bot";
 $username = "root";
